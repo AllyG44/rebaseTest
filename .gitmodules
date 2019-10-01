@@ -1,0 +1,3 @@
+[submodule "gitTesting"]
+	path = gitTesting
+	url = https://github.com/AllyG44/gitTesting
